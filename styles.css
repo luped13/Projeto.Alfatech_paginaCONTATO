@@ -1,0 +1,229 @@
+body {
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+    
+}
+
+header {
+    border-top: 30px solid  rgb(53, 229, 235);
+    justify-content: center;
+
+}
+
+#logo {
+    align-items: center;
+    justify-content: center;
+    padding: 20px 20px 0px 20px;
+    width: 200px;
+}
+
+.alinhar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+}
+
+h1 {
+    margin: 10px;
+    padding: 0px;
+}
+
+.pagina {
+    background-color: #1a9bc9;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 200;
+    font-size: 28px;
+    margin: 0px;
+
+}
+
+.contato {
+    margin: 0px 80px;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+}
+
+.contato-container {
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.contato h2 {
+    color:black;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 10;
+    font-size: 18px;
+    text-align: justify;
+    padding: 0px;
+}
+
+.contato p {
+    align-items: center;
+    justify-content: center;
+    color:black;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: justify;
+    margin: 10px;
+}
+
+input {
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+    margin: 0px 50px;
+}
+
+#espaco {
+    width: 300px;
+    height: 175px;
+
+}
+
+button {
+    cursor: pointer;
+    background-color: rgb(53, 229, 235);
+    color: black;
+    border-radius: 10px;
+    margin: 0px 0px 10px 80px;
+    width: 200px;
+    font-size: 25px;
+    font-family: 'Amatic SC', cursive;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+}
+
+.icones-img {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.icones-img a {
+    margin-bottom: 15px;
+}
+
+.icones-img img:nth-child(4){
+    width: 100px;
+}
+
+.icones-img p {
+    color:black;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 10;
+    font-size: 18px;
+}
+
+.email-container {
+    display: flex;
+    align-items: center;
+}
+
+
+main {
+    display: flex;
+    
+}
+
+#logo-enactus {
+    object-fit: contain;
+    margin: 0px 100px 0px 0px;
+}
+
+footer {
+
+    background-color: #1a9bc9;
+    height: 30px;
+}
+
+footer p {
+    align-content: center;
+    align-items: center;
+    margin: 0;
+    flex-direction: row;
+    font-family: 'Amatic SC', cursive;
+    font-size: 12pt;
+    justify-content: center;
+    /* padding: 30px 0px 0px 0px; */
+    text-align: center;
+}
+/* 
+.foto {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto img {
+    display: block;
+    opacity: 0.9;
+    max-width: 500px;
+    border-radius: 40px;
+}
+
+.intro { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.alinhar {
+    display: flex;
+    flex-direction: column;
+}
+
+.mvv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 0px 0px 30px;
+}
+
+.titulo2 {
+    color:black;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 200;
+    font-size: 25px;
+    margin: 0px 10px;
+    text-align: center;
+    background-color: rgb(53, 229, 235);
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+
+}
+
+
+
+/* .botao { 
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#clicar {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: none;
+    background-color: darkturquoise;
+    color: gold;
+    font-size: 20pt;
+}
+
+#clicar:hover {
+    cursor: pointer;
+    opacity: 0.5;
+    height: 200px;
+    width: 200px;
+} */ */
